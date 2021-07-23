@@ -1,4 +1,5 @@
 # NeuroMatch Academy (NMA) Computational Neuroscience syllabus
+# Forked from NMA-2021
 
 **The content should primarily be accessed from our new ebook: https://compneuro.neuromatch.io/**
 
